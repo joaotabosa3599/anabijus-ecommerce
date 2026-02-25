@@ -22,18 +22,3 @@ Histórico de Pedidos: Painel de perfil personalizado que exibe o histórico de 
 
 📱 Responsividade
 O design foi desenvolvido seguindo a filosofia Mobile-First, adaptando-se perfeitamente de desktops a dispositivos móveis, com menus retráteis e grids flexíveis.
-
-📦 Como rodar o projeto localmente
-
-1. clone este repositório:
-git clone https://github.com/joao-tabosa/anabijus-ecommerce.git
-
-
-2. Instale as dependências:
-npm install
-
-
-3. inicie o servidor de desenvolvimento:
-npm run dev
-
-Desenvolvido por: João Tabosa - Engenharia de Computação (UFC Sobral).
