@@ -1,0 +1,242 @@
+[
+{
+    "id": 1,
+    "name": "Argolas douradas | tamanho P",
+    "image": "/Images/Brincos1.jpg",
+    "rating": 5,
+    "price": 6.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 2,
+    "name": "Trio de brincos dourados",
+    "image": "/Images/Brincos2.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 3,
+    "name": "Conjunto Pulseira e Choker strass dourado",
+    "image": "/Images/Conjunto1.jpg",
+    "rating": 5,
+    "price": 23.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 4,
+    "name": "Conjunto palito de strass coloridos dourada",
+    "image": "/Images/Conjunto2.jpg",
+    "rating": 5,
+    "price": 23.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 5,
+    "name": "Conjunto gravatinha de coração dourado",
+    "image": "/Images/Conjunto3.jpg",
+    "rating": 5,
+    "price": 24.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 6,
+    "name": "Conjunto ponto de luz dourado",
+    "image": "/Images/Conjunto4.jpg",
+    "rating": 5,
+    "price": 24.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 7,
+    "name": "Conjunto de coração preto dourado",
+    "image": "/Images/Conjunto5.jpg",
+    "rating": 5,
+    "price": 23.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 8,
+    "name": "Conjunto ponto de luz prata",
+    "image": "/Images/Conjunto6.jpg",
+    "rating": 5,
+    "price": 23.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Conjunto"
+},
+{
+    "id": 9,
+    "name": "Gravatinha ponto de luz e Nossa Senhora Aparecida dourado",
+    "image": "/Images/Cordao1.jpg",
+    "rating": 5,
+    "price": 14.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Colar"
+},
+{
+    "id": 10,
+    "name": "Choker de trevos e pontos de luz dourada",
+    "image": "/Images/Cordao2.jpg",
+    "rating": 5,
+    "price": 14.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock" : 20,
+    "category": "Colar"
+},
+{
+    "id": 11,
+    "name": "Colar de strass dourado",
+    "image": "/Images/Cordao3.jpg",
+    "rating": 5,
+    "price": 13.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Colar"
+},
+{
+    "id": 12,
+    "name": "Colar duplo de ponto de luz e coração dourado",
+    "image": "/Images/Cordao4.jpg",
+    "rating": 5,
+    "price": 15.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Colar"
+},
+{
+    "id": 13,
+    "name": "Pulseira do divino Espírito Santo dourada",
+    "image": "/Images/Cordao5.jpg",
+    "rating": 5,
+    "price": 15.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Colar"
+},
+{
+    "id": 14,
+    "name": "Pulseira de corações e esferas verdes prata",
+    "image": "/Images/Pulseira1.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 15,
+    "name": "Pulseira infinito dourada",
+    "image": "/Images/Pulseira2.jpg",
+    "rating": 5,
+    "price": 8.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 16,
+    "name": "Pulseira ponto de luz dourada",
+    "image": "/Images/Pulseira3.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 17,
+    "name": "Pulseira de strass dourada",
+    "image": "/Images/Pulseira4.jpg",
+    "rating": 5,
+    "price": 8.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 18,
+    "name": "Pulseira dupla de strass e bolinhas douradas",
+    "image": "/Images/Pulseira5.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 19,
+    "name": "Pulseira dourada de pontos de luz cor de rosa",
+    "image": "/Images/Pulseira6.jpg",
+    "rating": 5,
+    "price": 8.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Pulseira"
+},
+{
+    "id": 20,
+    "name": "Trio de brincos de cereja dourado",
+    "image": "/Images/TriploBrincos1.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 21,
+    "name": "Trio de brincos dourado",
+    "image": "/Images/TriploBrincos2.jpg",
+    "rating": 5,
+    "price": 6.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 22,
+    "name": "Trio de brincos de coração dourados",
+    "image": "/Images/TriploBrincos3.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 23,
+    "name": "Trio de brincos borboleta dourados",
+    "image": "/Images/TriploBrincos4.jpg",
+    "rating": 5,
+    "price": 6.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+},
+{
+    "id": 24,
+    "name": "Trio de brincos de coração prata",
+    "image": "/Images/TriploBrincos5.jpg",
+    "rating": 5,
+    "price": 7.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stock": 20,
+    "category": "Brincos"
+}
+]
