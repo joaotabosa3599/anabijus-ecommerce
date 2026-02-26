@@ -1329,6 +1329,7 @@ input:focus {
   }
  .see-more-btn{
   height: 50px;
+  width: 50%;
  }
   .testemunhas{
     flex-direction: column;
@@ -1430,7 +1431,7 @@ input:focus {
         flex-direction: column;
         grid-template-columns: 1fr;
         margin-left: 0;
-        gap: 2rem;
+        padding: 0;
       }
       header .left-side p {
         max-width: 80%;
@@ -1567,4 +1568,3 @@ input:focus {
 }
 }
 /*End responsividade*/
-
