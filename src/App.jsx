@@ -6,12 +6,10 @@ import {
 } from "react-router-dom";
 import { useEffect, useState } from "react";
 
-// Componentes Fixos
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import SideBarCart from "./Components/SideBarCart";
 
-// Páginas
 import HomePage from "./Components/pages/HomePage";
 import ProductsPage from "./Components/pages/ProductsPage";
 import Contato from "./Components/pages/Contato";
@@ -21,12 +19,12 @@ import Login from "./Components/pages/Login";
 import Register from "./Components/pages/Register";
 
 export default function App() {
-  // --- 1. ESTADOS DE DADOS ---
+  // Estados de Dados!
   const [products, setProducts] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [showSideBarCart, setShowSideBarCart] = useState(false);
 
-  // --- 2. ESTADOS DE PERSISTÊNCIA (LocalStorage) ---
+  // Persistência de Dados!
 
   // Usuário Ativo
   const [currentUser, setCurrentUser] = useState(() => {
@@ -45,8 +43,6 @@ export default function App() {
     const saved = localStorage.getItem("orderHistory");
     return saved ? JSON.parse(saved) : [];
   });
-
-  // --- 3. EFEITOS (Persistência e Busca) ---
 
   // Buscar produtos do JSON
   useEffect(() => {
@@ -78,7 +74,7 @@ export default function App() {
     localStorage.setItem("orderHistory", JSON.stringify(orderHistory));
   }, [orderHistory]);
 
-  // --- 4. LÓGICA DE NEGÓCIO ---
+  //Lógica do total a pagar do carrinho
 
   const cartTotal = selectedProducts.reduce(
     (acc, item) => acc + (item.price || 0) * (item.quantity || 1),
@@ -152,7 +148,6 @@ export default function App() {
 
         <main>
           <Routes>
-            {/* Rota Pública */}
             <Route path="/" element={<HomePage currentUser={currentUser} />} />
             <Route path="/Contato" element={<Contato />} />
             <Route
@@ -171,7 +166,7 @@ export default function App() {
                     addProductsToCart={addProductsToCart}
                   />
                 ) : (
-                  <Navigate to="/Login" state={{ from: "navbar" }} />
+                  <Navigate to="/Login" state={{ from: "promotion" }} replace />
                 )
               }
             />
