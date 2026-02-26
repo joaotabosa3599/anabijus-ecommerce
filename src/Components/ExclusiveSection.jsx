@@ -11,9 +11,10 @@ export default function ExclusiveSection({ currentUser }) {
           <div className="left-side">
             <h2>Produto Especial</h2>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga
-              recusandae quod obcaecati repellendus impedit doloribus dolores
-              minima, nesciunt, autem voluptas dolor suscipit.
+              Descubra a peça que faltava para iluminar o seu visual. 
+              Nossa curadoria de semijoias combina design contemporâneo 
+              com o brilho que você merece. Seja para o dia a dia ou para 
+              momentos inesquecíveis, leve com você a sofisticação da Ana Biju.
             </p>
 
             {/* Lógica Condicional similar ao Header */}
@@ -34,3 +35,4 @@ export default function ExclusiveSection({ currentUser }) {
     </div>
   );
 }
+
