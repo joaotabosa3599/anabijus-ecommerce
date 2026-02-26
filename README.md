@@ -22,3 +22,5 @@ Histórico de Pedidos: Painel de perfil personalizado que exibe o histórico de 
 
 📱 Responsividade
 O design foi desenvolvido seguindo a filosofia Mobile-First, adaptando-se perfeitamente de desktops a dispositivos móveis, com menus retráteis e grids flexíveis.
+
+Desenvolvido por João Tabosa, Estudante no 5° período de Engenharia da Computação.
